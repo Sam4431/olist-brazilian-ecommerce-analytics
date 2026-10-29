@@ -112,6 +112,4 @@ Execute [`analysis.sql`](analysis.sql). It contains the queries for the four bus
 - Small samples can produce unstable rankings. For example, a category with a perfect average review score across only a handful of reviewed orders is not directly comparable to one with hundreds or thousands.
 - The analysis is descriptive. It does not prove that a category causes repeat purchases or that a proposed campaign will be profitable.
 
-## Project status
 
-**Stages 1–3 complete:** schema design and data import, SQL analysis, and insights/reporting. The next portfolio step is to publish these files to GitHub and, if desired, add screenshots of selected query results or a dashboard as a future enhancement.
